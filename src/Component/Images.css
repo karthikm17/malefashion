@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+}
+
+@media  (min-width:320px) {
+    .instagram{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 10rem;
+        margin-left: 2rem;
+        width: 30rem;
+        }
+        .instagram .firstimages img{
+            width: 449px;
+            height: 261px;
+        }
+    
+        .instagram .firstinstagram{
+         
+            margin-left: 1rem;
+            margin-top:5rem
+        }
+        .instagram .firstinstagram h2{
+            color: #111111;
+            font-weight: 700;
+            margin-bottom: 30px;
+            font-size: 36px;
+        
+        }
+        .instagram .firstinstagram h3{
+            color: #e53637;
+            font-weight: 700;
+           font-size: 30px;
+        }
+}
+
+
+@media  (min-width:768px){
+    .instagram{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 10rem;
+        margin-left: 5rem;
+        width: 40rem;
+        }
+        .instagram .firstimages img{
+            width: 229px;
+            height: 261px;
+           
+        }
+        .instagram .firstimages .image{
+            float: left;   
+            width: 33.33%;
+        }
+        .instagram .firstimages{
+           
+            width: 100%;
+        }
+        .instagram .firstinstagram{
+            
+            width: 40%;
+            margin-left: 5rem;
+            margin-top:5rem
+        }
+        .instagram .firstinstagram h2{
+            color: #111111;
+            font-weight: 700;
+            margin-bottom: 30px;
+            font-size: 36px;
+        
+        }
+        .instagram .firstinstagram h3{
+            color: #e53637;
+            font-weight: 700;
+           font-size: 30px;
+        }
+
+    
+}
+
+
+@media  (min-width:1024px){
+.instagram{
+display: flex;
+flex-wrap: wrap;
+margin-top: 10rem;
+margin-left: 5rem;
+width: 78rem;
+}
+.instagram .firstimages img{
+    width: 229px;
+    height: 261px;
+}
+.instagram .firstimages .image{
+    float: left;   
+  width: 33.33%;
+}
+.instagram .firstimages{
+   
+    width: 50%;
+}
+.instagram .firstinstagram{
+    
+    width: 40%;
+    margin-left: 5rem;
+    margin-top:5rem
+}
+.instagram .firstinstagram h2{
+    color: #111111;
+    font-weight: 700;
+    margin-bottom: 30px;
+    font-size: 36px;
+
+}
+.instagram .firstinstagram h3{
+    color: #e53637;
+    font-weight: 700;
+   font-size: 30px;
+}
+}

@@ -1,0 +1,214 @@
+*{
+    box-sizing: border-box;
+}
+@media screen and (min-width:320px){
+    .offer{
+        background: #f3f2ee;  
+        margin-top: 5rem;
+        width:32rem;
+    }
+    
+    .offer .first{
+       margin-left: 2rem;
+        margin-top:5rem;
+        margin-bottom: 5rem;
+        
+    }
+    .offer .first h2{
+        color: #b7b7b7;
+        line-height: 72px;
+        font-size: 34px;
+    }
+    .offer .first span{
+        color:black;
+        font-weight: 600;
+    }
+    
+    .offer .second{
+       
+        margin-top: 5rem;
+        margin-bottom: 5rem;    
+    }
+   
+    .offer .third{
+        margin-left: 2rem;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        padding:2rem;
+    }
+    
+    .offer .third span{
+        color:red;
+        letter-spacing: 1px;
+    }
+    .offer .third h2{
+        font-weight: 600;
+        font-size: 36px;
+    }
+     .offer .third .time{
+        display: flex;
+        gap:30px;
+    }
+    .offer .third .time span{
+        color:black;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    
+    .third a{
+    
+        color:white;
+        background-color: black;
+        text-decoration: none;
+        margin-top: 7rem;
+        margin-left: -20rem;
+        padding: 14px 30px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        
+    
+    }
+    
+}
+
+ 
+@media screen and (min-width:768px){
+    .offer{
+
+        display: flex;
+        width: 48rem;
+        flex-wrap: wrap;
+        background: #f3f2ee;
+        margin-top: 5rem;
+      
+    }
+    
+    .offer .first{
+      
+        margin-top:5rem;
+        margin-left: 2rem;
+    }
+    .offer .first h2{
+        color: #b7b7b7;
+        line-height: 72px;
+        font-size: 34px;
+    }
+    .offer .first span{
+        color:black;
+        font-weight: 600;
+    }
+    
+    .offer .second{
+       
+        margin-top: 5rem;   
+    }
+    .offer .third{
+        margin-top: -3rem;
+    margin-left: 3rem;
+    }
+    
+    .offer .third span{
+        color:red;
+        letter-spacing: 1px;
+    }
+    .offer .third h2{
+        font-weight: 600;
+        font-size: 36px;
+    }
+     .offer .third .time{
+        display: flex;
+        gap:30px;
+    }
+    .offer .third .time span{
+        color:black;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    
+    .third a{
+    
+        color:white;
+        background-color: black;
+        text-decoration: none;
+        margin-top: 7rem;
+        margin-left: -20rem;
+        padding: 14px 30px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        
+    
+    }
+    
+
+    
+}
+
+@media screen and (min-width:1024px){
+
+    .offer{
+
+        display: flex;
+        width: 84rem;
+        flex-wrap: wrap;
+        background: #f3f2ee;
+        margin-top: 5rem;
+      
+    }
+    
+    .offer .first{
+      
+        margin-top:5rem;
+        margin-left: 2rem;
+    }
+    .offer .first h2{
+        color: #b7b7b7;
+        line-height: 72px;
+        font-size: 34px;
+    }
+    .offer .first span{
+        color:black;
+        font-weight: 600;
+    }
+    
+    .offer .second{
+       
+        margin-top: 5rem;   
+    }
+    .offer .third{
+        margin-top:5rem;
+        margin-left: 3rem;
+    }
+    
+    .offer .third span{
+        color:red;
+        letter-spacing: 1px;
+    }
+    .offer .third h2{
+        font-weight: 600;
+        font-size: 36px;
+    }
+     .offer .third .time{
+        display: flex;
+        gap:30px;
+    }
+    .offer .third .time span{
+        color:black;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    
+    .third a{
+    
+        color:white;
+        background-color: black;
+        text-decoration: none;
+        margin-top: 7rem;
+        margin-left: -20rem;
+        padding: 14px 30px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        
+    
+    }
+    
+}

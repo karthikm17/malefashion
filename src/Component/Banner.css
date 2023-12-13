@@ -1,0 +1,265 @@
+*{
+    box-sizing: border-box;
+}
+@media  (min-width:320px){
+    .row{
+        margin-top: 5rem;
+        margin-left: 4rem;
+    }
+    .banner .bannertext1{
+    
+    margin-top: 10rem;  
+}
+
+.bannerimage1 img{
+
+    width: 400px;
+    height: 400px;
+}
+.bannerimage2 img{
+    width: 400px;
+    height: 400px;
+    
+}
+.bannerimage3 img{
+    width: 400px;
+    height: 400px;
+    
+
+}
+.banner .bannertext1{
+    margin-top: 1rem;
+    padding-top: 20px;
+    margin-bottom: 2rem;
+}
+.banner .bannertext2{
+    margin-bottom: 2rem;
+}
+.banner .bannertext3{
+    margin-bottom: 2rem;
+}
+.banner .bannertext2 h2{
+    font-size: 36px;
+    font-weight: 700;
+ }   
+ .banner .bannertext3 h2{
+    font-size: 36px;
+    font-weight: 700;
+ }
+.col-1{
+    margin-top: 2rem;
+} 
+
+ .banner a{
+    text-decoration: none;
+    color:black;    
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+
+}
+
+.banner:hover a{
+    border-bottom: 2px solid red;   
+      
+}
+
+ 
+}
+
+
+@media  (min-width:768px){
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    
+    }
+    .col-1{
+        max-width: 10rem;
+        margin-left:25rem;
+        }
+ 
+        .bannerimage1{
+            float: right;   
+        }
+        .bannerimage1 img{
+
+            width: 400px;
+            height: 400px;
+        
+        }
+     .bannertext1{
+    position: relative;
+    
+    }
+    .banner .bannertext1{
+        margin-left:-28rem;
+         position: absolute;
+        margin-top: 10rem;
+        font-weight:700;
+        font-Size:20px;
+    }
+    .banner .bannertext1 h2{
+        max-width: 250px;
+     }
+     
+     .col-2{
+        max-width: 20rem;
+        margin-top: 5rem;
+        margin-left: -6rem;
+        }
+
+        .bannerimage2 img{
+
+            width: 470px;
+            height:470px;
+        
+        }
+    .banner .bannertext2 h2{
+        font-size: 36px;
+        font-weight: 700;
+     }   
+     .col-3{
+    margin-left: 10rem;
+        }
+        
+        .bannerimage3 img{
+
+            width: 440px;
+            height:440px;
+        
+        }    
+    .bannertext3{
+        position: relative;
+    }
+    .banner .bannertext3{
+    margin-left:-10rem; 
+    position: absolute;
+    margin-top:-15rem;
+    font-weight:700;
+    font-Size:20px;
+}
+    .banner .bannertext3 h2{
+        font-size: 36px;
+        font-weight: 700;
+        max-width: 300px;
+     }  
+   
+
+.banner a{
+    text-decoration: none;
+    color:black;    
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding: 3px 0;
+    border-bottom: 2px solid black;
+}
+.banner:hover a{
+    
+    border-bottom: 2px solid red;   
+      
+}
+
+
+}
+
+@media  (min-width:1024px){
+.row{
+display: flex;
+flex-wrap: wrap;
+margin-top: 5rem;
+margin-left: 10rem;
+}
+
+.col-1{
+max-width: 100%;
+margin-left:40rem;
+}
+
+.bannerimage1{
+float: right;   
+}
+.bannerimage1 img{
+
+    width: 440px;
+    height: 440px;
+
+}
+.bannertext1{
+position: relative;
+
+}
+.banner .bannertext1{
+    margin-left:-10rem;
+     position: absolute;
+    margin-top: 10rem;
+    font-weight:700;
+    font-Size:20px;
+}
+.banner .bannertext1 h2{
+   max-width: 300px;
+}
+
+.col-2{
+    max-width: 100%;
+    margin-top: -5rem;
+    }
+    
+.bannerimage2 img{
+
+        width: 470px;
+        height:470px;
+    
+ }
+.banner .bannertext2 h2{
+    font-size: 36px;
+    font-weight: 700;
+}   
+
+ .col-3{
+    max-width: 10rem;
+    margin-left:12rem;
+    margin-top: 5rem;
+}   
+.bannerimage3 img{
+
+        width: 480px;
+        height:440px;
+    
+}
+    .bannertext3{
+        position: relative;
+    }
+    .banner .bannertext3{
+    margin-left:-10rem; 
+    position: absolute;
+    margin-top:-15rem;
+    font-weight:700;
+    font-Size:20px;
+}
+    .banner .bannertext3 h2{
+        font-size: 36px;
+        font-weight: 700;
+        max-width: 300px;
+    } 
+.banner a{
+    text-decoration: none;
+    color:black;    
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding: 3px 0;
+    border-bottom: 2px solid black;
+}
+.banner:hover a{
+    border-bottom: 2px solid red;         
+}
+
+}
