@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/malefashion/static/css/main.ccedbb93.css",
+    "main.js": "/malefashion/static/js/main.d065c69d.js",
+    "static/js/787.1452dbef.chunk.js": "/malefashion/static/js/787.1452dbef.chunk.js",
+    "static/media/product-sale.png": "/malefashion/static/media/product-sale.1734716fb82a15317e80.png",
+    "static/media/hero-2.jpg": "/malefashion/static/media/hero-2.676d51a7daa4ef6d7370.jpg",
+    "static/media/hero-1.jpg": "/malefashion/static/media/hero-1.c081bcff664751bf4f02.jpg",
+    "static/media/banner-1.jpg": "/malefashion/static/media/banner-1.45fe2b268cef81900571.jpg",
+    "static/media/banner-2.jpg": "/malefashion/static/media/banner-2.09aec17ea3a36d2e2a44.jpg",
+    "static/media/instagram-1.jpg": "/malefashion/static/media/instagram-1.1802abc6f39361fbb5d7.jpg",
+    "static/media/instagram-3.jpg": "/malefashion/static/media/instagram-3.f66f2e82ee7647ee0a63.jpg",
+    "static/media/instagram-4.jpg": "/malefashion/static/media/instagram-4.47ec0248f1c6690858a7.jpg",
+    "static/media/banner-3.jpg": "/malefashion/static/media/banner-3.902e072bfedc4a1cabdf.jpg",
+    "static/media/instagram-6.jpg": "/malefashion/static/media/instagram-6.1c64606ad7daaa9648b2.jpg",
+    "static/media/instagram-2.jpg": "/malefashion/static/media/instagram-2.11846e87e2b246d70f8d.jpg",
+    "static/media/product-4.jpg": "/malefashion/static/media/product-4.a494345c85de12cce04e.jpg",
+    "static/media/slick.svg": "/malefashion/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/malefashion/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/malefashion/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/malefashion/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/malefashion/index.html",
+    "main.ccedbb93.css.map": "/malefashion/static/css/main.ccedbb93.css.map",
+    "main.d065c69d.js.map": "/malefashion/static/js/main.d065c69d.js.map",
+    "787.1452dbef.chunk.js.map": "/malefashion/static/js/787.1452dbef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccedbb93.css",
+    "static/js/main.d065c69d.js"
+  ]
+}
